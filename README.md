@@ -1,16 +1,17 @@
 # sht2x-micropython
 
-micropython sht20 测试程序
+micropython sht20 娴嬭瘯绋嬪簭
 
-测试平台
+娴嬭瘯骞冲彴
 
 ESP8266
 
-文件焼写工具
+鏂囦欢鐒煎啓宸ュ叿
 
 uPyLoader-win.exe
+閾炬帴锛歨ttps://github.com/BetaRavener/uPyLoader/
 
-文件列表
+鏂囦欢鍒楄〃
 
 main.py
 sht2x.py
